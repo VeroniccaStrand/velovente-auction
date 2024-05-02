@@ -1,0 +1,17 @@
+import { Given, When, Then } from "@badeball/cypress-cucumber-preprocessor";
+
+Given('I am on the home page', () => {
+  // TODO: implement step
+});
+
+When('I click on My Account Link', () => {
+  // TODO: implement step
+});
+
+Then('I should be redirected to loginPage', () => {
+  // TODO: implement step
+});
+
+Then('I should be able to log in using valid credentials', () => {
+  // TODO: implement step
+});
