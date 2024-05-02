@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.max-ch-w {
+  max-width: 200ch;
+  line-height: 1.2; /* Anpassa storleken baserat på ditt behov */
+}
