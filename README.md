@@ -1,6 +1,3 @@
-  # MERN Projektmall
-
-Detta är en mall för att snabbt komma igång med en MERN (MongoDB, Express, React, Node.js) stack. Projektet är uppdelat i en klient och en server.
 
 ## Backend
 
